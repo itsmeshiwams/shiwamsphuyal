@@ -54,21 +54,3 @@
 
 
 
-<!DOCTYPE html>
-<html>
-<head>
-    <title>Note Taking App</title>
-    <link rel="stylesheet" type="text/css" href="style.css">
-</head>
-<body>
-    <h1>Note Taking App</h1>
-    <div id="notes-container">
-        <div id="notes-list"></div>
-        <textarea id="note-input" placeholder="Enter your note"></textarea>
-        <button id="add-note-btn">Add Note</button>
-    </div>
-
-    <script src="script.js"></script>
-</body>
-</html>
-
